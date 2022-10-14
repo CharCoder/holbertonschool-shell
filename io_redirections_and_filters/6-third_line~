@@ -1,2 +1,0 @@
-#!/bin/bash
-awk '{line = $2} END {print line}
